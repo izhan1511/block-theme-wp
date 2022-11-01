@@ -1,0 +1,17 @@
+// stylelint-disable value-keyword-case
+/* Fonts */
+
+@font-face {
+    font-family: "Helvetica Neue LT W01 57 Cond";
+    src: url('../assets/fonts/helvetica-neue-lt.woff2') format('woff2'),
+        url('../assets/fonts/helvetica-neue-lt.woff') format('woff'),
+        url('../assets/fonts/helvetica-neue-lt.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+$font__main: "Helvetica Neue LT W01 57 Cond";
+
+$font__line-height-body: 1.5;
+$font__line-height-pre: 1.6;

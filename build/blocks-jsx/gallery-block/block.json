@@ -1,0 +1,11 @@
+{
+  "$schema": "https://json.schemastore.org/block.json",
+  "apiVersion": 2,
+  "name": "custom-blocks/gallery-block",
+  "title": "Gallery Block",
+  "category": "layout",
+  "icon": "dashicons dashicons-format-gallery",
+  "textdomain": "custom-blocks",
+  "example": {},
+  "editorScript": "file:./index.js"
+}
